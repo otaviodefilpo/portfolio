@@ -17,11 +17,9 @@ I'm Environmental Engineering Student, at Federal Rural University of Amazon and
 * [Other Links](https://www.linktr.ee/otaviodefilpo)
 
 
-## Projetos:
+## Projects:
 see:
-
-**To Fill
-**To fill
+* [Airbnb at Rio de Janeiro - Exploratory Data Analysis](https://colab.research.google.com/drive/1nvRGUcIphvFVhJYtXWXnJ67HlDw0vgae?authuser=1#scrollTo=rbZ3Hsy9Ypw8)
 
 ---
 
