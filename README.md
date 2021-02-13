@@ -20,6 +20,7 @@ I'm Environmental Engineering Student, at Federal Rural University of Amazon and
 ## Projects:
 see:
 * [Airbnb at Rio de Janeiro - Exploratory Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Analisando_os_Dados_do_Airbnb_para_o_Rio_de_Janeiro_Ot%C3%A1vio_de_Filpo.ipynb)
+* [Urban Crimes at Rio de janeiro - Explotaroy Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Analisando_a_Viol%C3%AAncia_Urbana_no_Rio_de_Janeiro_Otavio_de_Filpo.ipynb)
 
 ---
 
