@@ -21,7 +21,7 @@ I'm Environmental Engineering Student, at Federal Rural University of Amazon and
 see:
 * [COVID-19 Pandemic Scenario in Brazil - Vaccines, Cases and Deaths - Exploratory Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Panorama_do_COVID_19_no_Brasil_Ot%C3%A1vio_de_Filpo.ipynb)
 * [Urban Crimes at Rio de janeiro - Exploratory Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Analisando_a_Viol%C3%AAncia_Urbana_no_Rio_de_Janeiro_Ot%C3%A1vio_de_Filpo.ipynb)
-* [Twitter Scrapping of JL1, a Brazil's Pará State Local News - Exploratory Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Twitter_Scrapping_com_Twint_do_JL1_Ot%C3%A1vio_de_Filpo.ipynb)
+* [Twitter Scrapping of JL1, a Brazil's Pará State Local News - Exploratory Data Analysis](https://github.com/otaviodefilpo/twitter-scrapping-with-twint-localnewscase)
 * [Airbnb at Rio de Janeiro - Exploratory Data Analysis](https://github.com/otaviodefilpo/projects/blob/main/Analisando_os_Dados_do_Airbnb_para_o_Rio_de_Janeiro_Ot%C3%A1vio_de_Filpo.ipynb)
 ---
 
