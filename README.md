@@ -18,11 +18,15 @@ I'm Environmental Engineering Student, at Federal Rural University of Amazon and
 
 
 ## Projects:
-see:
-* [COVID-19 Pandemic Scenario in Brazil - Vaccines, Cases and Deaths - Exploratory Data Analysis](https://github.com/otaviodefilpo/covid-19-inbrazil-vaccines-cases-deaths)
-* [Urban Crimes at Rio de janeiro - Exploratory Data Analysis](https://github.com/otaviodefilpo/urban-crimes-at-riodejaneiro-brazil)
-* [Twitter Scrapping of JL1, a Brazil's Pará State Local News - Exploratory Data Analysis](https://github.com/otaviodefilpo/twitter-scrapping-with-twint-localnewscase)
-* [Airbnb at Rio de Janeiro - Exploratory Data Analysis](https://github.com/otaviodefilpo/airbnb-at-riodejaneiro)
+Exploratory Data Analysis:
+* [COVID-19 Pandemic Scenario in Brazil - Vaccines, Cases and Deaths](https://github.com/otaviodefilpo/covid-19-inbrazil-vaccines-cases-deaths)
+* [Urban Crimes at Rio de janeiro](https://github.com/otaviodefilpo/urban-crimes-at-riodejaneiro-brazil)
+* [Twitter Scrapping of JL1, a Brazil's Pará State Local News](https://github.com/otaviodefilpo/twitter-scrapping-with-twint-localnewscase)
+* [Airbnb at Rio de Janeiro](https://github.com/otaviodefilpo/airbnb-at-riodejaneiro)
+
+Machine Learning:
+* [Credit Card Fraud Prediction](https://github.com/otaviodefilpo/credit-card-fraud-prediction)
+* [Telecom Churn Prediction](https://github.com/otaviodefilpo/churn-prediction-telecom)
 ---
 
 
