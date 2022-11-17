@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkedin cover 2.png" >
+  <img src="1.png" >
 </p>
 
 # Otávio de Filpo
