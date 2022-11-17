@@ -7,14 +7,14 @@
 
 I'm a selflearn person, always seeking to understand more the areas that i'm interested. 
 I'm a enthusiast of every day work hard, this is the way i developed many of my skills.
-I'm Environmental Engineering Student, at Federal Rural University of Amazon and Data Analytics Intern in TIncDig, a real estate company.
+I'm Environmental Engineering Student, at Federal Rural University of Amazon and Intern of Data Analysis in [THM Statistics](http://thmestatistica.com/), a consulting company.
 
 **Background in:** Python and Statistics.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/otaviodefilpo)
 * [Medium](https://www.otaviodefilpo.medium.com)
-* [Other Links](https://www.linktr.ee/otaviodefilpo)
+* [Other Links](https://www.linktr.ee/otaviofilpo)
 
 
 ## Projects:
